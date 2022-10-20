@@ -1,0 +1,22 @@
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/209/bin/ninja/linux/ninja -G Ninja -S /home/administrator/Downloads/c -B /home/administrator/Downloads/c/cmake-build-debug
+Using PICO_SDK_PATH from environment ('/home/administrator/workspace/pico-sdk')
+PICO_SDK_PATH is /home/administrator/workspace/pico-sdk
+Defaulting PICO_PLATFORM to rp2040 since not specified.
+Defaulting PICO platform compiler to pico_arm_gcc since not specified.
+PICO compiler is pico_arm_gcc
+-- The C compiler identification is GNU 10.3.1
+-- The CXX compiler identification is GNU 10.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /usr/bin/arm-none-eabi-gcc
+Build type is Debug
+Using regular optimized debug build (set PICO_DEOPTIMIZED_DEBUG=1 to de-optimize)
+Defaulting PICO target board to pico since not specified.
+Using board configuration from /home/administrator/workspace/pico-sdk/src/boards/include/boards/pico.h
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+TinyUSB available at /home/administrator/workspace/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040; enabling build support for USB.
+Compiling TinyUSB with CFG_TUSB_DEBUG=1
+cyw43-driver available at /home/administrator/workspace/pico-sdk/lib/cyw43-driver
+lwIP available at /home/administrator/workspace/pico-sdk/lib/lwip
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/administrator/Downloads/c/cmake-build-debug
