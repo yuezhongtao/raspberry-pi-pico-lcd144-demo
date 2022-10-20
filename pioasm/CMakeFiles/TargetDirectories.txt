@@ -1,0 +1,3 @@
+/home/administrator/Downloads/c/pioasm/CMakeFiles/pioasm.dir
+/home/administrator/Downloads/c/pioasm/CMakeFiles/edit_cache.dir
+/home/administrator/Downloads/c/pioasm/CMakeFiles/rebuild_cache.dir
